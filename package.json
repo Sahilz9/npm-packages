@@ -1,6 +1,6 @@
 {
   "name": "check-internet-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check the instructions properly",
   "main": "useInternet.jsx",
   "scripts": {
