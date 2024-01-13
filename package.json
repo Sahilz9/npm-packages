@@ -1,0 +1,22 @@
+{
+  "name": "check-internet-mode",
+  "version": "1.0.0",
+  "description": "Check the instructions properly",
+  "main": "useInternet.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahilz9/npm-packages.git"
+  },
+  "keywords": [
+    "useinternet"
+  ],
+  "author": "Sahil Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahilz9/npm-packages/issues"
+  },
+  "homepage": "https://github.com/Sahilz9/npm-packages#readme"
+}
