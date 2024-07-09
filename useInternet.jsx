@@ -28,7 +28,7 @@ export default useOnline;
 // Before using this, you should include the condition below wherever necessary and also import it into your component.
 
 /*
-import useOnline from "/useOnline";
+import useOnline from "useOnline_location.....";
 
 const isOnline = useOnline();
 
